@@ -11,7 +11,7 @@ Let's become a monarch and drop me a line if you are interested in teaming up!
 </samp>
 <div align="center">
   
-  ![Cindy's GitHub stats](https://streak-stats.demolab.com/?user=cindyangelira)](https://git.io/streak-stats))
+  ![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cindyangelira&show_icons=true&theme=synthwave&count_private=true)
 
 </div>
 
