@@ -3,7 +3,7 @@
 
 - 👯 Welcome to my github play ground. I'm a data wizard with a knack for turning raw data into facinating solutions. If you're looking to collaborate with me on a project or need some assistance with data-related work, feel free to check out my Upwork account [Upwork](https://www.upwork.com/freelancers/~01970fb43b70675c6b).
 
-- 📫 You can reach me through my [Linkedin](https://www.linkedin.com/in/cindybtari/) profile or my [Twitter](https://twitter.com/cindyangelira_) or send me an Email(cindybtari@gmail.com)! You can also find some of my articles on Medium, where I cover topics related to data science and machine learning [Medium](https://medium.com/@cindybtari). 
+- 📫 You can reach me through my [Linkedin](https://www.linkedin.com/in/cindybtari/) profile or my [Twitter](https://twitter.com/cindyangelira_) or send me an [Email](cindybtari@gmail.com)! You can also find some of my articles on Medium, where I cover topics related to data science and machine learning [Medium](https://medium.com/@cindybtari). 
 
 - ⚡ Fun fact: When I'm not knee-deep in data, I'm curating my wardrobe and watching cats and huskies' videos. I also read a lot of mangas/manhwas/manhuas and my favorite character is Sung Jin Woo. 🎮🕹
 
@@ -11,7 +11,7 @@ Let's become a monarch and drop me a line if you are interested in teaming up!
 </samp>
 <div align="center">
   
-  ![Gusti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanggusti&show_icons=true&theme=synthwave&count_private=true)
+  ![Cindy's GitHub stats](https://streak-stats.demolab.com/?user=cindyangelira)](https://git.io/streak-stats))
 
 </div>
 
