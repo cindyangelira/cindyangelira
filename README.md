@@ -8,4 +8,31 @@
 - ⚡ Fun fact: When I'm not knee-deep in data, I'm curating my wardrobe and watching cats and huskies' videos. I also read a lot of mangas/manhwas/manhuas and my favorite character is Sung Jin Woo. 🎮🕹
 
 Let's become a monarch and drop me a line if you are interested in teaming up!
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cindyangelira&theme=react&line_height=40&hide=css"/> </a>
+  </samp>
+<div align="center">
+  
+  ![Cindy's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cindyangelira&show_icons=true&theme=synthwave&count_private=true)
+
+</div>
+
+<div align="center">
+
+  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cindyangelira&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+<!-- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cindyangelira&theme=react&line_height=40&hide=css"/> </a>
+ -->
+ 
+<!-- Have a nice day!
+</samp>
+<div align="center">
+  
+  ![Gusti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanggusti&show_icons=true&theme=synthwave&count_private=true)
+
+</div>
+
+<div align="center">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanggusti&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+</div> -->
