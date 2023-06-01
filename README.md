@@ -14,9 +14,6 @@ Let's become a monarch and drop me a line if you are interested in teaming up!
   ![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cindyangelira&show_icons=true&theme=synthwave&count_private=true)
 
 </div>
-
-<div align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cindyangelira&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cindyangelira&layout=compact&theme=synthwave&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
