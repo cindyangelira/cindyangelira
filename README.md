@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact: When I'm not knee-deep in data, I'm curating my wardrobe and watching cats and huskies' videos. I also read a lot of mangas/manhwas/manhuas and my favorite character is Sung Jin Woo. 🎮🕹
 
-Let's become a monarch and drop me a line if you are interested in teaming up!
   </samp>
 <div align="center">
   
